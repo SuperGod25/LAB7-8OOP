@@ -1,11 +1,11 @@
 //
-// Created by Sebi on 02.05.2023.
+// Created by Sebi on 03.05.2023.
 //
 
 #ifndef LAB78_SERVICE_H
 #define LAB78_SERVICE_H
 
-#include "cmake-build-debug/Repository/Repository.h"
+#include "Repository/Repository.h"
 
 class Service{
 private:

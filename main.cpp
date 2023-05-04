@@ -1,6 +1,6 @@
-#include "cmake-build-debug/Tests/Tests.h"
-#include "cmake-build-debug/UI/UI.h"
-#include "cmake-build-debug/Service/Service.h"
+#include "Tests/Tests.h"
+#include "UI/UI.h"
+#include "Service/Service.h"
 #include <iostream>
 using namespace std;
 int main(){

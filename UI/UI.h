@@ -1,11 +1,12 @@
 //
-// Created by Sebi on 02.05.2023.
+// Created by Sebi on 03.05.2023.
 //
 
 #ifndef LAB78_UI_H
 #define LAB78_UI_H
 
-#include "cmake-build-debug/Service/Service.h"
+#include "Service/Service.h"
+#include "Repository/Repository.h"
 
 class UI {
 private:
@@ -22,7 +23,7 @@ public:
     void showSumCheltuialaTypeUI();
     void showCheltuialaByType();
     void filterCheltuialaByTypeUI();
-    void readProcedure(int& ziua, int& suma, char*& tip);
+    static void readProcedure(int& ziua, int& suma, char*& tip);
     void showMenu();
     void console(char&);
     void runMenu();

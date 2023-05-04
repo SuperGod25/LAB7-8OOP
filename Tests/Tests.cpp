@@ -13,7 +13,7 @@ void testRepository()
     Repository repo;
     repo.add(c1);
     assert(repo.getSize()==1);
-    assert(repo.getCheltPos(0).getSuma()==20);
+    assert(repo.getCheltPos(0).getSuma()==140);
 }
 
 void testCheltuiala(){

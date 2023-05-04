@@ -1,7 +1,7 @@
 #include <iostream>
-#include "cmake-build-debug/Repository/Repository.h"
-#include "cmake-build-debug/Domain/Cheltuiala.h"
-#include "cmake-build-debug/Service/Service.h"
+#include "Repository/Repository.h"
+#include "Domain/Cheltuiala.h"
+#include "Service/Service.h"
 
 void testGetZiua();
 void testGetSuma();

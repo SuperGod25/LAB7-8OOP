@@ -1,7 +1,7 @@
 #ifndef REPOSITORY_H
 #define REPOSITORY_H
 
-#include "cmake-build-debug/Domain/Cheltuiala.h"
+#include "Domain/Cheltuiala.h"
 
 class Repository{
     private:

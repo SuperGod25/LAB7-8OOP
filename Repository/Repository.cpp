@@ -5,7 +5,7 @@ using namespace std;
 Repository::Repository(){
     this->nrCheltuieli=0;
     this->nrMaxChelt = 4;
-    this->cheltuiala = new Cheltuiala[4];
+    this->cheltuiala = new Cheltuiala[10];
 }
 
 Repository::Repository(Cheltuiala* cheltuiala, int size, int maxSize) {

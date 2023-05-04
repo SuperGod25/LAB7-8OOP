@@ -1,4 +1,4 @@
-# Install script for directory: /Users/mpmp/Desktop/LAB78/cmake-build-debug
+# Install script for directory: /Users/mpmp/Desktop/LAB78
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
